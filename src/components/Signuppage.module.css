@@ -1,0 +1,118 @@
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+  }
+  .right_panel{
+    padding: 5vw;
+    margin-top: -3rem;
+  }
+  .logospan{
+    margin-left: 4rem;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header img {
+    max-width: 100%;
+  }
+  
+  .form {
+  
+  
+   
+  }
+  
+  .form_input {
+    
+    margin-bottom: 20px;
+    height: 40px;
+    width: 100%;
+    font-size: 26px;
+
+    
+  }
+  .tnc{
+    color: gray;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  
+  /* .form-input label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  } */
+  
+  .form_input input {
+    display: block;
+    width: 100%;
+    padding: 30px;
+    
+    border: 1px solid #ccc;
+    border-radius: 5px;
+   
+  }
+  
+  .form_actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .otp_button {
+    padding: 10px 20px;
+    background-color: #EA3242;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    margin-top: 1rem;
+    width: 100%;
+  }
+  
+  /* .otp-button:hover {
+    background-color: #0062cc;
+  } */
+  
+  .google_button {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    display: block;
+    width: 100%;
+  }
+  
+  .google-button:hover {
+    background-color: #f0f0f0;
+    border-color: #999;
+  }
+  
+  .switch {
+    margin: 20px;
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: bolder;
+    border: none;
+    height: 2rem;
+    border-radius: 4px;
+    color: #EA3242;
+    padding: 0.5rem;
+    padding-bottom: 1rem;
+    cursor: pointer;
+  }
+  
+  
+  

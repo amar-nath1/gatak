@@ -1,0 +1,73 @@
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header img {
+    max-width: 100%;
+  }
+  
+  .section {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .panel {
+    flex: 1;
+    margin: 2rem;
+
+  }
+  
+  .panel h2 {
+    margin-bottom: 10px;
+  }
+  
+  .panel p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .panel img {
+    max-width: 100%;
+  }
+  
+  .founders {
+    margin-top: 40px;
+  }
+  
+  .founder {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .founder img {
+   
+    margin-right: 20px;
+  }
+  
+  .founder-details h3 {
+    margin-bottom: 10px;
+  }
+  
+  .founder-details p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .social-links a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-links a:last-child {
+    margin-right: 0;
+  }
+  
